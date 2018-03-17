@@ -1,0 +1,62 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+    <style name="NotificationTitle">
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="NotificationText">
+        <item name="android:textColor">#8a000000</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    
+    <!-- android -->
+    <!--<style name="TextAppearance">
+
+    </style>
+
+    <style name="TextAppearance.Material">
+        <item name="textColor">?attr/textColorPrimary</item>
+        <item name="textColorHint">?attr/textColorHint</item>
+        <item name="textColorHighlight">?attr/textColorHighlight</item>
+        <item name="textColorLink">?attr/textColorLink</item>
+        <item name="textSize">@dimen/text_size_body_1_material</item>
+        <item name="fontFamily">@string/font_family_body_1_material</item>
+        <item name="lineSpacingMultiplier">@dimen/text_line_spacing_multiplier_material</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification">
+        <item name="textColor">@color/notification_secondary_text_color_light</item>
+        <item name="textSize">@dimen/notification_text_size</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Title">
+        <item name="textColor">@color/primary_text_default_material_light</item>
+        <item name="textSize">@dimen/notification_title_text_size</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Info">
+        &lt;!&ndash;<item name="textColor">@color/notification_secondary_text_color_light</item>
+        <item name="textSize">@dimen/notification_subtext_size</item>&ndash;&gt;
+    </style>-->
+    
+</resources>
